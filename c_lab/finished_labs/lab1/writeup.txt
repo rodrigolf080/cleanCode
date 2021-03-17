@@ -1,0 +1,2 @@
+This lab tests:
+:: dynamic memory allocation

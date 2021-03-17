@@ -1,0 +1,5 @@
+#!/bin/bash
+rm run
+gcc -o binTestChild binTestChild.c
+gcc -o binTestParent binTestParent.c
+gcc -o run execIE.c

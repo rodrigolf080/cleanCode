@@ -1,0 +1,4 @@
+This lab tests:
+:: Garbage collection
+:: Strings pointers and arrays
+:: Dynamic memory allocation vs stack auto variables

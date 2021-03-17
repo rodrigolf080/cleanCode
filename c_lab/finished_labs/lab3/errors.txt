@@ -1,0 +1,5 @@
+rm: run: No such file or directory
+pointers.c:15:17: error: argument type 'void' is incomplete
+        printf("%d\n", *ptr);
+                       ^
+1 error generated.

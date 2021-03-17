@@ -1,0 +1,4 @@
+This lab tests:
+:: fork()
+:: child and parent processes
+:: exec functions in C
