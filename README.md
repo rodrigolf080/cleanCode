@@ -1,2 +1,2 @@
-# cleanCode
-Examples of clean, commented and explained code improved for performance for educational purpose.
+# algorithm_analysis
+Algorithms for different problems
