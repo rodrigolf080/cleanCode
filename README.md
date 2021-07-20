@@ -1,2 +1,2 @@
 # algorithm_analysis
-Algorithms and stuff for educational purposes
+Simple algorithms and stuff for educational purposes
