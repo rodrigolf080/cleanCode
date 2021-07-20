@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python3
 # program :: collatz sequence
 # input :: int x
 # output :: list generated from x to 1
