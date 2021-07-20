@@ -1,2 +1,2 @@
 # algorithm_analysis
-Algorithms for educational explanations or proof of concepts.
+Algorithms and stuff for educational purposes
